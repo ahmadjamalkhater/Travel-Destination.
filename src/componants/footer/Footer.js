@@ -10,7 +10,7 @@ function Footer() {
             <a href="#"><i className="fa-brands fa-twitter"></i></a>
         </div>
             <div className="Author">
-                Abdallah alomari
+                ahmad khater
             </div>
         </div>
     )
